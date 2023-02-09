@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500;600;700&display=swap');
+@import url();
+body {
+    margin: 0;
+    justify-content: center;
+    background-image: url('/Users/Mac/Desktop/intro-component-with-signup-form-master/images/bg-intro-desktop.png');
+    background-color: hsl(0, 100%, 74%) !important;
+    background-size: cover;
+    padding-left: 7rem;
+}
+h1 {
+    font-weight: 700;
+  width: 15ch;
+}
+p {
+    font-weight: 400;
+    width: 50ch;
+}
+.info_container {
+    color: #fff;
+   max-width: 10rem;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.3em;
+}
+.container {
+    padding-top: 7rem;
+}
+.form_container {
+    background-color: #fff;
+    padding: 2rem 2rem 2rem 2rem;
+    max-width: 33rem;
+    border-radius: 2%;
+}
+.btn {
+    background-color: hsl(249, 54%, 53%) !important;
+}
+.button_container {
+    margin-top: 1rem;
+}
+.button {
+    background-color: hsl(154, 59%, 51%) !important;
+}
+.terms {
+    font-size: small;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
